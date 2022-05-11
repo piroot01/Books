@@ -32,6 +32,11 @@
 
 ### 3. Dílo
 
+- básnické prostředky:
+	- **elipsa**: básnická výpustka, údy jeho – „svaly dubového kmene“
+	- **anafora**: opakování na začátku verše
+	- **eufenismus**: označení, které zlehčuje skutečnost, ohýbá jí pozitivně - „již na něm roste trávníček“
+	- **zvukomalba**: „vlažný větřík laškuje“
 - soubor 13 lyricko-epických básní
 - oproti Máji je ale složka epická důležitější
 - žánrově odpovídají baladám, což jsou útvary, které mají ponurý děj, horrorvé prvky, exotické, mýtické prvky, končí většinou něšťastně, tragicky (většinou, protože Poklad končí zdárným shledáním matky a syna)
