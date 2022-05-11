@@ -5,6 +5,7 @@
 - byl romantik
 - cestovatel, zřícenin Bezděz, pod ním se nachází jezero, které je po něm pojmenované
 - zakladatel moderní české poezie
+	- poezie, která má v sobě prvky exprese, symboliky či nadčasovosti
 - dobově nepochopen, kritika
 - *Cikáni*: román o svobodných cikánech, tragické zápletky, realistická kresba postav
 - *Márinka*: autobiografická lyrizovaná povídka
@@ -28,6 +29,7 @@
 ### 3. Dílo
 
 - lyrická složka je více zastoupena než epická
+- pravděpodobná inspirace skutečným příběhem otcovraždy poblíž Dubé, příběh je vyprávěn hostinským - lidová slovesnost
 - básnické prostředky:
 	- **personifikace** - neživá věc dělá věci, co dělá člověk
 	- **oxymorón** - protimluvné spojení dvou slov (Mrtvé milenky cit, zborcené harfy tón)
