@@ -28,7 +28,7 @@
 
 ### 3. Dílo
 
-- 2. polovina 14. století
+- druhá polovina 14. století
 - zatímco se v ostatních legendách soustředilo na alegorizaci (jinotaj, dílo předává jinou hodnotu, než je zprvu viditelná), nicméně Život svaté Kateřině se téma soustřeďuje na scénu mučení, poté na zázraky a magické výjevy, to neznamená, že se v díle nevyskytují alegorie - vekice podobné s legendou sv. Prokopa
 -  vztah k výtvarnému umění - popis síně či změny barev v obličeji Kateřiny
 - **Kateřina** - jediná dcera krále Kosta
@@ -44,6 +44,7 @@
 - **Zázraky**: v průběhu vícero, ale nejvýraznější jsou: zásah andělů při popravě, mléko vytékající z rány, vydiny Kateřiny, konverze 50 učenců, kouzelný olej z hrobu Kateřiny
 - **Translace ostatků**: přesun těla na sinaj
 - **anafora**: opakování na začátku verše
+- **aliterace**: opakování slova v rámci řádku
 - **symboly a metafory**: mléko - čistota, zlaté vlasy - urozenost, kolo a meč - utrpení, barvy: *zelená* - stud, *bílá* - naděje, *rudá* - krev, *černá* - smrt, *modrá* - věrnost, *zlatá* - vznešenost
 - desatero: *jediného boha budeš uctívat* - tak to je jasný, *cti otce a matku svou* - svého otce milovala, *nesesmilníš* - Kateřina je panna, *nepodáš křivé svědectví* - strážci se přiznají, i když nemusí
 - alegorie - obraz Panny Marie sloužil k propojení Kateřiny s Marií a potom s Kristem
