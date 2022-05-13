@@ -1,10 +1,31 @@
 ## Gulliverovy cesty - Jonathan Swift
 
 ### 1. Autor
+
+- tvůrce moderní satirické prózy
+- dobře vystudovaný
+- dal se vysvětit na kněze
+- doktor teologie, přitom v díle Gulliverovy cesty náboženství nehraje přímo žádnou roli, ale nepřímo varuje před pokrokem, mezi jeho další díla patří zejména teologická próza
+
 ### 2. Autorský kontext
+
+- **osvícenství - Immanuel Kant**: člověk je osoba sama přemýšlející, vydělování jednotlivosti, vzdělání (pokud nevím, nemohu soudit), boj proti předsudsudkům (předsudek vytváří despotismus), revoluce může zapříčinit změnit poměry ve státu, ale nezmění uvažování lidí $\rightarrow$ myšlení musí být podrobeno formě, svět podporuje racionalitu, ekonomika a vojsko jako předpoklady pro stabilní společnost, církev (volnomyšlenkářství, velká kritika - střet racionálních a duchovních hodnot), *libertinismus* - přesvědčení o svých vlastích hodnotách, *Montesquie* - dělba moci, vymezení vůči despotismu (forma autokratické vlády, takže nepřiznává poddaným práva a zachází s nimi jako s poddanými, diktatura), vztah světla a tmy - světlo = pokrok, bezpečí, ... tma = nejistota, zpátečnictví
+- ostatní směry společně s osvícenstvím: 
+	- *klasicismus* - umělecký směr aristokracie, reakce na baroko, Francie - Ludvík Čtrnáctý, dokonalost v symetrii, krása v pravdě a přírodě, rozumová kázeň, vzor z antického světa, principy pevného řádu a norem
+	- *empír* - prakticky totéž, co klasicismus, akorát větší míra inspirace v antice, vláda Napoleona Bonaparte
+- dělení umění na nízké a vysoké: *nízké* jsou komedie, bajky, frašky a *vysoké* jsou ódy, tragédie a eposy
+- klasicismus poté přecházel v preromantismus (Goethe, Krylov) a potom v romantismus (Mácha)
+- *Immanuel Kant* - nejvýznamnější myslitel osvícenské doby
+	- Kritika čistého rozumu - Kantovy imperativy, syntéza racionalismu a skepticismu
+- ve světě je v 17. stol. absolutismus, ten vyvcholí v 19. století řadou revolucí
+- Descartes: racionalista a dedukcionista, vzdělání
+- vznik učených společností, akademie, slovníky a encyklopedie (Voltaire, Diderot)
+- Čechy: u nás je baroko (jsme trochu pozadu oproti světu), takže **Bedřich Bridel** - Co Bůh? Co člověk? (čistá esence barokní literatury - mysticismus, citovost, monumentánnost, kontrast jako v romantismu, vlastní nitro a vztah k Bohu)nebo **Jan Ámos Komenský** - Labyrint světa a ráj srdce, Didactica magna či Orbis pictus, ale díky tomu, že Komenský cestoval, tak dokázal pochytit Evropskou kulturu, proto vytváří i díla humanistická, racionální - Velká didaktika a přezdívá se mu "učitel národů", zastánce pansofie, což je vševěda, **Bohuslav Balbín** - také spíše osvícenství, naučná literatura, vlastivědy a obrana proti germanizaci 
+
 ### 3. Dílo
 
 - předchůdce science-fiction
+- parodie na lidskou společnost, zda-li pokrok není devastující, modernizace zpátečnická, projevují se teologické záměry, takže vlastně velice nepřímo upozorňuje na devastující účinky pokroku nadřazené postavení v přírodě
 - specifická jazykotvorba - podobné jako u Tolkiena
 - v díle se vyskytují obrazy ideálů (moudrost Hojninimů)
 - kontrast mezi skutečností a reálnem
