@@ -42,6 +42,9 @@
 
 ### 3. Dílo
 
+- studie efektivního teroru - smrtelná úzkost
+- místo díky realistickému a skutečnému popisu nepůsobí fantaskně, nýbrž reálně - což je hrozivé
+- hrozně se dbá na pocity, zvuková stopa je též vyobrazena svištěním kyvadla
 - hlavní idea díla: příběh zobrazuje období inkvizic ve středověku, respektive jejich konec, protože vězněný je nakonec osvobozen
 - děj se odehrává v Toledském žaláři, který spravují inkvizitoři
 - čas není v povídce upřesněn, ale jelikož se jedná o vylíčení prakticky konce inkvizic, odhaduji, že se budeme pohybovat okolo začátku 19. století - inkvizice byly zrušeny
